@@ -1,0 +1,1 @@
+# Módulo de Registro de Usuarios\n\nEste módulo permitirá a nuevos usuarios registrarse en el sistema de biblioteca.\n\nFunciones principales:\n- Ingresar nombre completo\n- Ingresar correo electrónico\n- Crear contraseña segura\n- Validación de datos ingresados\n- Almacenamiento de usuarios en la base de datos (futuro)\n\nEste archivo es parte del desarrollo inicial del sistema.
